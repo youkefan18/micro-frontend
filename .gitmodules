@@ -1,0 +1,15 @@
+[submodule "browse"]
+	path = browse
+	url = git@github.com:micro-frontends-demo/browse.git
+[submodule "container"]
+	path = container
+	url = git@github.com:micro-frontends-demo/container.git
+[submodule "infra"]
+	path = infra
+	url = git@github.com:micro-frontends-demo/infra.git
+[submodule "content"]
+	path = content
+	url = git@github.com:micro-frontends-demo/content.git
+[submodule "restaurant-order"]
+	path = restaurant-order
+	url = git@github.com:micro-frontends-demo/restaurant-order.git
